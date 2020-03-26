@@ -1,0 +1,21 @@
+@font-face {
+    font-family: monument;
+    src: url("./MonumentExtended-Regular.otf") format("opentype");
+}
+
+@font-face {
+    font-family: monument;
+    font-weight: bold;
+    src: url("./MonumentExtended-Ultrabold.otf") format("opentype");
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+body {
+    font-family: monument, sans-serif;
+    color: #fff;
+}

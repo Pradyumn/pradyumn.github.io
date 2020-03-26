@@ -1,0 +1,9 @@
+#intro {
+    margin: auto;
+}
+
+#intro span {
+    display: block;
+    font-size: 96px;
+    font-weight: lighter;
+}
